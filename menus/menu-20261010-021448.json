@@ -1,0 +1,413 @@
+{
+    "menu": {
+        "paginas": [
+            {
+                "numero_pagina": 1,
+                "titulo_principal_pagina": "MOCKTELERIA",
+                "secciones": [
+                    {
+                        "subtitulo_seccion": "Mockteleria",
+                        "elementos": [
+                            {
+                                "nombre": "Limonada de sabor",
+                                "descripcion": "Limonada con pulpa de fruta y agua mineral o natural",
+                                "precio": "$109.00",
+                                "calorias": null,
+                                "gramaje": "700 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Limonada con pulpa de fruta y agua mineral o natural",
+                                "descripcion": "Coca Cola , Coca Cola Light , •Limonada • Maracuyada • Mangonada • Fresada •Naranjada",
+                                "precio": "$59.00",
+                                "calorias": null,
+                                "gramaje": "355 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "FRESA COLADA sin alcohol",
+                                "descripcion": "Ciel mineral 355 ml, Agua quina 235 ml, Jugo de piña, crema de coco, leche evaporada y granadina",
+                                "precio": "$79.00",
+                                "calorias": null,
+                                "gramaje": "400 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "PINADA sin alcohol",
+                                "descripcion": "Ginger ale , del valle mango 453 ml",
+                                "precio": "$79.00",
+                                "calorias": null,
+                                "gramaje": "235 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "VASO jugo",
+                                "descripcion": "Jugo de piña, crema de coco, leche evaporada y piña natural",
+                                "precio": "$69.00",
+                                "calorias": null,
+                                "gramaje": "150 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "MARGARITA frutos rojos sin alcohol",
+                                "descripcion": "CLAMATO preparado",
+                                "precio": "$109.00",
+                                "calorias": null,
+                                "gramaje": "300 ml",
+                                "clasificacion": "Bebida Alcohólica"
+                            },
+                            {
+                                "nombre": "Mix cítrico",
+                                "descripcion": "soda de toronja, fresa y pulpa de berries",
+                                "precio": "$69.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "BOTELLA de agua",
+                                "descripcion": null,
+                                "precio": "$49.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Ciel natural",
+                                "descripcion": null,
+                                "precio": "$49.00",
+                                "calorias": null,
+                                "gramaje": "600 ml",
+                                "clasificacion": "Bebida"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "APOSTRES",
+                        "elementos": [
+                            {
+                                "nombre": "COOKIES & CREAM",
+                                "descripcion": null,
+                                "precio": "$99.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Postre"
+                            },
+                            {
+                                "nombre": "BOLA DE HELADO",
+                                "descripcion": "con 1 Galleta estilo New York",
+                                "precio": "$39.00",
+                                "calorias": null,
+                                "gramaje": "90 g",
+                                "clasificacion": "Postre"
+                            },
+                            {
+                                "nombre": "CAFÉ",
+                                "descripcion": null,
+                                "precio": "$54.00",
+                                "calorias": null,
+                                "gramaje": "120 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Doble o Triple Chocolate",
+                                "descripcion": null,
+                                "precio": "$59.00",
+                                "calorias": null,
+                                "gramaje": "90 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "CHOCOPERRO",
+                                "descripcion": null,
+                                "precio": "$99.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Postre"
+                            },
+                            {
+                                "nombre": "CARAJILLO",
+                                "descripcion": null,
+                                "precio": "$139.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Postre"
+                            },
+                            {
+                                "nombre": "Capuccino",
+                                "descripcion": null,
+                                "precio": "$59.00",
+                                "calorias": null,
+                                "gramaje": "120 ml",
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Pastelito sabor 5 chocolates",
+                                "descripcion": "Café espresso 90 ml y licor 43 30 ml",
+                                "precio": "$59.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Otro"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numero_pagina": 2,
+                "titulo_principal_pagina": "ENCHILADAS",
+                "secciones": [
+                    {
+                        "subtitulo_seccion": "Enchiladas",
+                        "elementos": [
+                            {
+                                "nombre": "Chicken 1",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Chicken 2",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Chicken 3",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Chicken 4",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Chicken 5",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Chicken 6",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Fajitas",
+                        "elementos": [
+                            {
+                                "nombre": "Fajita 1",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Fajita 2",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Fajita 3",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Fajita 4",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Fajita 5",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Fajita 6",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Salads",
+                        "elementos": [
+                            {
+                                "nombre": "Saladi",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Otro"
+                            },
+                            {
+                                "nombre": "Salad2",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Otro"
+                            },
+                            {
+                                "nombre": "salad3",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Otro"
+                            },
+                            {
+                                "nombre": "Salad4",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Otro"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Quesadillas",
+                        "elementos": [
+                            {
+                                "nombre": "Quesadilla 1",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Quesadilla 2",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Quesadilla 3",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Quesadilla 4",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Quesadilla 5",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Quesadilla 6",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Burritos",
+                        "elementos": [
+                            {
+                                "nombre": "Burrito 1",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Burrito"
+                            },
+                            {
+                                "nombre": "Burrito 2",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Burrito"
+                            },
+                            {
+                                "nombre": "Burrito 3",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Burrito"
+                            },
+                            {
+                                "nombre": "Burrito 4",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Burrito"
+                            },
+                            {
+                                "nombre": "Burrito 5",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Burrito"
+                            },
+                            {
+                                "nombre": "Burrito 6",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Burrito"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
