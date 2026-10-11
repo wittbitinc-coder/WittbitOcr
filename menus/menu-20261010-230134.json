@@ -1,0 +1,1053 @@
+{
+    "menu": {
+        "paginas": [
+            {
+                "numero_pagina": 1,
+                "titulo_principal_pagina": "HNnAS/SNAHR",
+                "secciones": [
+                    {
+                        "subtitulo_seccion": "Guacamole",
+                        "elementos": [
+                            {
+                                "nombre": "Guacamole",
+                                "descripcion": null,
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Frijoles Refritos/RefiredBeans",
+                        "elementos": [
+                            {
+                                "nombre": "Frijoles Refritos/RefiredBeans",
+                                "descripcion": null,
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Pico de Gallo",
+                        "elementos": [
+                            {
+                                "nombre": "Pico de Gallo",
+                                "descripcion": "Tomate, Tomatebolla, Cilantro y Limón",
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "STO",
+                        "elementos": [
+                            {
+                                "nombre": "STO",
+                                "descripcion": "Onion, Coriander, Lemon",
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Camarón/Shrimp",
+                        "elementos": [
+                            {
+                                "nombre": "Camarón/Shrimp",
+                                "descripcion": null,
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Pulpo/Octopus",
+                        "elementos": [
+                            {
+                                "nombre": "Pulpo/Octopus",
+                                "descripcion": null,
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Pescado/Fish",
+                        "elementos": [
+                            {
+                                "nombre": "Pescado/Fish",
+                                "descripcion": null,
+                                "precio": "$850.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Mixto/Mired",
+                        "elementos": [
+                            {
+                                "nombre": "Mixto/Mired",
+                                "descripcion": "Goda",
+                                "precio": "$400.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Aguachile/Shrimp",
+                        "elementos": [
+                            {
+                                "nombre": "Aguachile/Shrimp",
+                                "descripcion": "AguachileRojo/Red Shrimp",
+                                "precio": "$400.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "COCIEHES",
+                        "elementos": [
+                            {
+                                "nombre": "COCIEHES",
+                                "descripcion": "Catsup Limon, Pimienta, Salsa Inglesa y Aceite de Olivo (Ketchup, Lemon, Peppe, English Sauce and Oil)",
+                                "precio": "$400.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida Alcohólica"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Camarón/Shrimp",
+                        "elementos": [
+                            {
+                                "nombre": "Camarón/Shrimp",
+                                "descripcion": null,
+                                "precio": "$280.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Pulpo/Octopus",
+                        "elementos": [
+                            {
+                                "nombre": "Pulpo/Octopus",
+                                "descripcion": null,
+                                "precio": "$280.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Pescado/Fish",
+                        "elementos": [
+                            {
+                                "nombre": "Pescado/Fish",
+                                "descripcion": null,
+                                "precio": "$280.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Mixto/Mired",
+                        "elementos": [
+                            {
+                                "nombre": "Mixto/Mired",
+                                "descripcion": "Arrachera",
+                                "precio": "$220.00",
+                                "calorias": null,
+                                "gramaje": "220",
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "DeCamarón Empanizado",
+                        "elementos": [
+                            {
+                                "nombre": "DeCamarón Empanizado",
+                                "descripcion": "S250Rajitas",
+                                "precio": "$280.00",
+                                "calorias": null,
+                                "gramaje": "250",
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "BreadedShrimp",
+                        "elementos": [
+                            {
+                                "nombre": "BreadedShrimp",
+                                "descripcion": "Ahmexcana/Tothe Mexican",
+                                "precio": "$260.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "DePollo/Chicken",
+                        "elementos": [
+                            {
+                                "nombre": "DePollo/Chicken",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Delangosta/Lohster",
+                        "elementos": [
+                            {
+                                "nombre": "Delangosta/Lohster",
+                                "descripcion": null,
+                                "precio": "$0.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "numero_pagina": 2,
+                "titulo_principal_pagina": "TAQUERIA:",
+                "secciones": [
+                    {
+                        "subtitulo_seccion": "TAQUERIA",
+                        "elementos": [
+                            {
+                                "nombre": "Charguito",
+                                "descripcion": null,
+                                "precio": "$18.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": null,
+                                "precio": "$14.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Chorizo",
+                                "descripcion": null,
+                                "precio": "$14.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Campechanos",
+                                "descripcion": null,
+                                "precio": "$30.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            },
+                            {
+                                "nombre": "Tacos en t. de maíz con queso",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Taco en tortilla de harina",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Tacos en t. de harina con queso",
+                                "descripcion": null,
+                                "precio": "$60.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            },
+                            {
+                                "nombre": "Taco especial",
+                                "descripcion": null,
+                                "precio": "$60.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Taco"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "ORDEN De Tacos",
+                        "elementos": [
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Suadero",
+                                "descripcion": null,
+                                "precio": "$88.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Chorizo",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Campechanos",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Bistec",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": null,
+                                "precio": "$88.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Pechuga",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Chuleta",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": null,
+                                "precio": "$85.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": "Con tocino",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Suadero",
+                                "descripcion": "Con tocino y queso",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "CampechanO",
+                                "descripcion": "Con tocino y queso",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Bisetec",
+                                "descripcion": "Con tocino",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": "Con tocino y queso",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Pechuga",
+                                "descripcion": "Con tocino y queso",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Chuleta",
+                                "descripcion": "Con tocino y queso",
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Hawaiana al pastor",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Pechuqueso0",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": "Con tocino y queso",
+                                "precio": "$95.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Orden de Tacos"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Alambres",
+                        "elementos": [
+                            {
+                                "nombre": "Alambre de Pastor",
+                                "descripcion": null,
+                                "precio": "$120.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de Pastor con Queso",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de suadero",
+                                "descripcion": null,
+                                "precio": "$120.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de suadero con Queso",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de bistec",
+                                "descripcion": null,
+                                "precio": "$120.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de bistec con Queso",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de costilla",
+                                "descripcion": null,
+                                "precio": "$120.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de costilla con Queso",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de Pechuga",
+                                "descripcion": null,
+                                "precio": "$120.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de Pechuga con Queso",
+                                "descripcion": null,
+                                "precio": "$1125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de chuleta",
+                                "descripcion": null,
+                                "precio": "$120.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de chuleta con Queso",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de arrachera",
+                                "descripcion": null,
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            },
+                            {
+                                "nombre": "Alambre de arrachera con Queso",
+                                "descripcion": null,
+                                "precio": "$135.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Alambre"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "ESPECIALIDAD DE LA CASA",
+                        "elementos": [
+                            {
+                                "nombre": "Charquito Mixe",
+                                "descripcion": "costilla, chuleta, pastor, morrón, cebolla, tocino y queso.",
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Charquito Bravo",
+                                "descripcion": "Bistec, pechuga, queso, pastor, cuaresmeño, cebolla, tocino Y aguacate.",
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Charquito Especial",
+                                "descripcion": "Bistec, pastor, queso, morrón, cebolla, tocino y aguacate.",
+                                "precio": "$145.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Charquito Hawaiano",
+                                "descripcion": "Pastor, piña, tocino y queso en tortilla de harina.",
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Charquito Vegetariano",
+                                "descripcion": "Morrón, nopales, champiňones, piña, jitomate, cebolla y queso.",
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Charquito",
+                                "descripcion": "Pollo, bistec, pastor, tocino, piřňa, Y ques en tortilla de harina.",
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Cebotua",
+                        "elementos": [
+                            {
+                                "nombre": "Bistec",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Carne Asada"
+                            },
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": null,
+                                "precio": "$130.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Carne Asada"
+                            },
+                            {
+                                "nombre": "Pechuga",
+                                "descripcion": null,
+                                "precio": "$125.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Carne Asada"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": null,
+                                "precio": "$145.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Carne Asada"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Papa Asada rellena",
+                        "elementos": [
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Suadero",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Bistec",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Pollo",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Costilla",
+                        "elementos": [
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": "100000",
+                                "clasificacion": "Carne Asada"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Quesos",
+                        "elementos": [
+                            {
+                                "nombre": "Queso fundido",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Queso"
+                            },
+                            {
+                                "nombre": "Choriqueso",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Queso"
+                            },
+                            {
+                                "nombre": "Queso con rajas",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Queso"
+                            },
+                            {
+                                "nombre": "Queso con hongos",
+                                "descripcion": null,
+                                "precio": "$60.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Queso"
+                            },
+                            {
+                                "nombre": "Quesadilla",
+                                "descripcion": null,
+                                "precio": "$60.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Queso"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Volcanes",
+                        "elementos": [
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            },
+                            {
+                                "nombre": "Suadero",
+                                "descripcion": null,
+                                "precio": "$90.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            },
+                            {
+                                "nombre": "Bistec",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            },
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": null,
+                                "precio": "$90.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            },
+                            {
+                                "nombre": "Chuleta",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            },
+                            {
+                                "nombre": "Pechuga",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Volcán"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Tortas",
+                        "elementos": [
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            },
+                            {
+                                "nombre": "Suadero",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            },
+                            {
+                                "nombre": "Bistec",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            },
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            },
+                            {
+                                "nombre": "Pollo",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            },
+                            {
+                                "nombre": "Combinada",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Torta"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Gringas",
+                        "elementos": [
+                            {
+                                "nombre": "Pastor",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Suadero",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Bistec",
+                                "descripcion": null,
+                                "precio": "$90.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Costilla",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Pechuga",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Arrachera",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Cebollitas",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            },
+                            {
+                                "nombre": "Nopales",
+                                "descripcion": null,
+                                "precio": "$40.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Gringa"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Aguacate",
+                        "elementos": [
+                            {
+                                "nombre": "Aguacate",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Bebidas",
+                        "elementos": [
+                            {
+                                "nombre": "Refresco",
+                                "descripcion": null,
+                                "precio": "$32.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Cerveza",
+                                "descripcion": null,
+                                "precio": "$45.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida Alcohólica"
+                            },
+                            {
+                                "nombre": "Michelada",
+                                "descripcion": null,
+                                "precio": "$50.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida Alcohólica"
+                            },
+                            {
+                                "nombre": "Agua Horchata Jamaica",
+                                "descripcion": null,
+                                "precio": "$32.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Café de olla",
+                                "descripcion": null,
+                                "precio": "$32.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Bebida"
+                            },
+                            {
+                                "nombre": "Frijoles Charros",
+                                "descripcion": null,
+                                "precio": "$50.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Plato Fuerte"
+                            },
+                            {
+                                "nombre": "Pastel de queso",
+                                "descripcion": null,
+                                "precio": "$50.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Postre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
