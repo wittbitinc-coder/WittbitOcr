@@ -1,0 +1,62 @@
+{
+    "menu": {
+        "paginas": [
+            {
+                "numero_pagina": 1,
+                "titulo_principal_pagina": "Dog Fajitas Arrachera",
+                "secciones": [
+                    {
+                        "subtitulo_seccion": "Fajitas",
+                        "elementos": [
+                            {
+                                "nombre": "Dog Fajitas Arrachera",
+                                "descripcion": "Arrachera 250 g. pimiento, Pollo 200 g, arrachera 250g, Camarón",
+                                "precio": "$259.00",
+                                "calorias": null,
+                                "gramaje": "250 g, 200 g, 250g",
+                                "clasificacion": "Taco"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitulo_seccion": "Complementos",
+                        "elementos": [
+                            {
+                                "nombre": "ELOTE DULCE",
+                                "descripcion": null,
+                                "precio": "$39.00",
+                                "calorias": null,
+                                "gramaje": null,
+                                "clasificacion": "Complemento"
+                            },
+                            {
+                                "nombre": "GUACAMOLE",
+                                "descripcion": null,
+                                "precio": "$89.00",
+                                "calorias": null,
+                                "gramaje": "180 g",
+                                "clasificacion": "Complemento"
+                            },
+                            {
+                                "nombre": "TORTILLAS",
+                                "descripcion": null,
+                                "precio": "$15.00",
+                                "calorias": null,
+                                "gramaje": "4 pz",
+                                "clasificacion": "Complemento"
+                            },
+                            {
+                                "nombre": "TOCINO",
+                                "descripcion": null,
+                                "precio": "$19.00",
+                                "calorias": null,
+                                "gramaje": "30 g",
+                                "clasificacion": "Complemento"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
